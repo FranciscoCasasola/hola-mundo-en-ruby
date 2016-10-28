@@ -1,2 +1,3 @@
 puts "¡Hola Mundo!"
-puts "Seguimos practicando"
+nombre = gets.chomp
+puts "Hola " + nombre + " encantado de conocerte"
