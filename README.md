@@ -1,2 +1,2 @@
-# hola-mundo-en-ruby
+# Hola mundo (Ruby)
 Hola mundo en lenguaje Ruby
